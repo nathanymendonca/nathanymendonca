@@ -27,4 +27,4 @@ Atualmente estou me especializando em Big Data, Inteligência Artificial, Ciênc
 
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanymendonca&layout=compact)](https://github.com/nathanymendonca/github-readme-dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanymendonca&layout=compact)](https://github.com/nathanymendonca/github-readme&theme=dark)
