@@ -24,3 +24,4 @@ Atualmente estou me especializando em Big Data, Inteligência Artificial, Ciênc
 
 
 [! [Estatísticas do GitHub da nathanymendonca] (https://github-readme-stats.vercel.app/api ? Username = nathanymendonca )] (https://github.com/nathanymendonca/github-readme-stats)
+.
