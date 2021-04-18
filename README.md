@@ -21,3 +21,6 @@ Atualmente estou me especializando em Big Data, Inteligência Artificial, Ciênc
 ![MySql](https://img.shields.io/badge/-mysql-%23F7DF1C?style=flat-square&logo=mysql&logoColor=00008b&labelColor=%00008b&color=%00008b)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+
+[! [Estatísticas do GitHub da nathanymendonca] (https://github-readme-stats.vercel.app/api ? Username = nathanymendonca )] (https://github.com/nathanymendonca/github-readme-stats)
