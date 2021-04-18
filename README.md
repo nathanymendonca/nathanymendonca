@@ -23,8 +23,8 @@ Atualmente estou me especializando em Big Data, Inteligência Artificial, Ciênc
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-![natahnymendonca Status](https://github-readme-stats.vercel.app/api?username=nathanymendonca&show_icons=true)
+![natahnymendonca Status](https://github-readme-stats.vercel.app/api?username=nathanymendonca&show_icons=true = true & theme = dark)
 
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanymendonca&layout=compact)](https://github.com/nathanymendonca/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanymendonca&layout=compact)](https://github.com/nathanymendonca/github-readme-dark)
